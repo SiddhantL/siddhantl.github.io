@@ -219,7 +219,8 @@
     line-height: 50px;
     padding: 1%;
     cursor: pointer;
-    margin-left: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
     transition: ease .3s;
     &:hover {
       color: rgb(255, 255, 255);
