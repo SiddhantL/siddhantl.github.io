@@ -205,23 +205,23 @@
   font-size: 30px;
   .social {
     padding-left: 0px;
+    border-radius: 5px;/*2vh*/
+    background: #ffffff7a;
   }
+  
   li {
-    color: whitesmoke;
+    color: #000000;
     list-style-type: none;
     display: inline-block;
     width: 50px;
     height: 50px;
     line-height: 50px;
     padding: 1%;
-    border: 1.5px solid rgba(201, 201, 201, 0.4);
     cursor: pointer;
     margin-left: 10px;
-    margin-bottom: 20px;
     transition: ease .3s;
     &:hover {
-      color: rgba(214, 255, 252, 0.753);
-      border: 1.5px solid rgb(0, 217, 255);
+      color: rgb(255, 255, 255);
     }
   }
 }
@@ -242,7 +242,7 @@
   padding: 12px 30px;
   cursor: pointer;
   font-size: 1.1em;
-  border-radius: 1vh;
+  border-radius: 5px;/*1vh*/
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
@@ -700,6 +700,7 @@ html {
     text-align: center;
     padding-top: 10vh;
     font-size: 1.7em;
+    text-shadow: 2px 2px #00000056;
   }
   .siddhantlad{
     color: #fff;
@@ -728,6 +729,9 @@ html {
     padding-bottom: 2vh;
   }
   .cardright{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     background-color: #00d0ff70;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
@@ -735,7 +739,6 @@ html {
     min-height: 60vh;
     min-width: 350px;
     border-radius:0px 5px 5px 0px;
-    justify-content: center;
     align-items: center;
     align-content: center;
   }
