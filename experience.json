@@ -1,0 +1,30 @@
+[
+    {
+        "company": "Ernst & Young",
+        "role": "Summer Intern for Technology Consulting",
+        "duration": "Summer 2022",
+        "responsibilities": [
+            "Executed Red Teaming, performed Vulnerability Assessment and Penetration Testing on 12+ systems.",
+            "Conducted endpoint testing and spearheaded mobile app testing for 5+ applications.",
+            "Developed scripts that reduced routine task time by 20% using Bash and Python."
+        ]
+    },
+    {
+        "company": "RB Electronics Pvt Ltd.",
+        "role": "Software Consultant",
+        "duration": "September 2022 - February 2023",
+        "responsibilities": [
+            "Led the development of an electric generator monitoring infrastructure and a mobile app used by 500+ users.",
+            "Deployed an ASP.NET API with reverse proxy on AWS EC2, enhancing performance by 30%."
+        ]
+    },
+    {
+        "company": "NTT Ltd.",
+        "role": "Intern for Product Engineering and Innovation",
+        "duration": "Summer 2023",
+        "responsibilities": [
+            "Created Python scripts to automate reporting for the client dashboard.",
+            "Integrated the ManageEngine ITSM tool with custom automation solutions."
+        ]
+    }
+]

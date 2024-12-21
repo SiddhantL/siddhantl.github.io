@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Email",
+        "icon": "fa-envelope",
+        "url": "mailto:siddhantnlad@gmail.com"
+    },
+    {
+        "name": "Phone",
+        "icon": "fa-phone",
+        "url": "tel:+18585183296"
+    },
+    {
+        "name": "LinkedIn",
+        "icon": "fa-linkedin",
+        "url": "https://www.linkedin.com/in/sidlad"
+    },
+    {
+        "name": "GitHub",
+        "icon": "fa-github",
+        "url": "https://github.com/SiddhantL"
+    }
+]

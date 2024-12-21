@@ -1,0 +1,49 @@
+[
+    {
+        "title": "PaperWave",
+        "technologies": [
+            "React Native",
+            "AWS",
+            "Python",
+            "BART-LARGE-CNN",
+            "AdMob"
+        ],
+        "description": "Implemented an app that employs BART-LARGE-CNN to convert academic papers into a mobile-friendly format, enhancing readability."
+    },
+    {
+        "title": "MediaMinds",
+        "technologies": [
+            "Google Colaboratory",
+            "Generative AI",
+            "Python",
+            "Stable Diffusion",
+            "Google Text-To-Speech"
+        ],
+        "description": "Built a system converting text to video content, utilizing Stable Diffusion for image generation and Retrieval Based Voice Conversion for narration."
+    },
+    {
+        "title": "Safe Distancing",
+        "technologies": [
+            "LSTM",
+            "DBSCAN",
+            "Android Studio",
+            "Java",
+            "AWS",
+            "TensorFlow Lite"
+        ],
+        "description": "Developed a COVID-19 safety app using ML algorithms to analyze real-time crowd density, facilitating social distancing.",
+        "link": "https://www.youtube.com/watch?v=XP5uQdw3YaU&ab_channel=SiddhantLad"
+    },
+    {
+        "title": "Sensor'D",
+        "technologies": [
+            "Android",
+            "Canvas",
+            "Arduino",
+            "Bluetooth Module",
+            "Firebase"
+        ],
+        "description": "Designed a retro arcade game integrating Arduino and other IoT devices as controllers.",
+        "link": "https://www.youtube.com/watch?v=tQK7zG41_sE&ab_channel=SiddhantLad"
+    }
+]
