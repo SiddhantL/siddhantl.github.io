@@ -45,5 +45,17 @@
         ],
         "description": "Designed a retro arcade game integrating Arduino and other IoT devices as controllers.",
         "link": "https://www.youtube.com/watch?v=tQK7zG41_sE&ab_channel=SiddhantLad"
+    },
+    {
+        "title": "FireStack",
+        "technologies": [
+            "Flask",
+            "SQLAlchemy",
+            "PostgreSQL",
+            "Google Calendar API",
+            "AWS",
+            "Python"
+        ],
+        "description": "Engineered a productivity management app featuring internship tracking, task management, and calendar synchronization, integrated with Google Calendar for seamless scheduling."
     }
 ]
